@@ -31,7 +31,7 @@ def usage():
               _______  ___ _______ ____
              / __/ _ \(_-</ __/ _ `/ _ \.
              \__/ .__/___/\__/\_,_/_//_/
-               /_/ v 1.0 - susmithHCK
+               /_/ v 1.0 - Prince Yasin
     """
     print bcolors.ENDC
     print """
@@ -41,7 +41,7 @@ def usage():
          -h  --help     - show this menu
 
         EXAMPLE:
-          python cpscan.py -t targetsite.com -v
+          python2 cpscan.py -t targetsite.com -v
     """
     sys.exit()
 
