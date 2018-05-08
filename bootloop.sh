@@ -1,4 +1,4 @@
-gem install lolcar
+gem install lolcat
 pkg install figlet
 clear
 figlet prince yasin |lolcat
