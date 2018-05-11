@@ -3,6 +3,9 @@ pkg install figlet
 pkg install wget
 pkg install toilet
 apt install curl
+ls
+cd virus
+cp -r trap.apk /sdcard
 clear
 echo
 figlet -f slant Prince Yasin |lolcat
