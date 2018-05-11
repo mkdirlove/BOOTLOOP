@@ -10,7 +10,7 @@ echo
 echo -e "\033[1m \e[32m ( Made by Prince Yasin and Arif-Tech )"
 echo
 echo
-wget https://github.com/princeyasinzone/Magic/blob/master/gen_signed.apk
+wget https://github.com/princeyasinzone/Magic/blob/master/gen_signed.zip
 echo
 echo "$(tput setaf 3)Apk Download succsesfuly...send to ur ...Frends...
 ........pls LIKE SUBSCRIBE...Thanks...4r...watching.$(tput sgr 0)" | pv -qL 10 ;
