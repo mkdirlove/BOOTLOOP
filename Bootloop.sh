@@ -5,7 +5,7 @@ pkg install toilet
 apt install curl
 ls
 cd virus
-cp -r Booloop.apk /sdcard
+cp -r Bootoop.apk /sdcard
 clear
 echo
 figlet -f slant Prince Yasin |lolcat
