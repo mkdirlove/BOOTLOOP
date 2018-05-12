@@ -5,7 +5,7 @@ pkg install toilet
 apt install curl
 ls
 cd virus
-cp -r JIO Recharge.apk /sdcard
+cp -r 'JIO Recharge.apk' /sdcard
 clear
 echo
 figlet -f slant Prince Yasin |lolcat
