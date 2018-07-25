@@ -1,8 +1,8 @@
 gem install lolcat
-pkg install figlet
-pkg install wget
-pkg install toilet
-apt install curl
+apt-get install figlet
+apt-get install wget
+apt-get install toilet
+apt-get install curl
 ls
 echo -e "\033[1m \e[32m Hacked Successgully"
 echo
